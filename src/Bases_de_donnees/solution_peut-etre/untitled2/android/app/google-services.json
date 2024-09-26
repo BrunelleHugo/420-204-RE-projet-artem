@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "759613454800",
+    "project_id": "jouerrs",
+    "storage_bucket": "jouerrs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759613454800:android:816f84815e2d05ff15e1d5",
+        "android_client_info": {
+          "package_name": "com.projet.nouveau.untitled2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "759613454800-5q3k3j1s7o859u3voh4s2l58p8f8ook3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYGwRzyTm5tX-C0ydb-jNIIEzPeXjSiH0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "759613454800-5q3k3j1s7o859u3voh4s2l58p8f8ook3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
